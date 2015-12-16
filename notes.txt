@@ -1,0 +1,9 @@
+ - 10 Frames
+ - 1 or 2 shots
+ - gotcha
+    - Spares
+        - 5 (first shot) // first frame
+        - 5 (second shot) //first frame second shot
+        - 7 // 24  (second Frame)
+    - Strike
+        - 10
