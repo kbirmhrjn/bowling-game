@@ -21,3 +21,7 @@
 
     2-2 => Thirty-All
     1-1 => Fifteen-All
+
+- FizzBuzz
+    1,2,fizz,4,buzz,fizz,7,8,fizz,buzz,11,fizz,123,14,fizzbuzz
+
