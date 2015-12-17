@@ -1,9 +1,23 @@
- - 10 Frames
- - 1 or 2 shots
- - gotcha
-    - Spares
-        - 5 (first shot) // first frame
-        - 5 (second shot) //first frame second shot
-        - 7 // 24  (second Frame)
-    - Strike
-        - 10
+ - Bowling Game
+     - 10 Frames
+     - 1 or 2 shots
+     - gotcha
+        - Spares
+            - 5 (first shot) // first frame
+            - 5 (second shot) //first frame second shot
+            - 7 // 24  (second Frame)
+        - Strike
+            - 10
+
+- Tennis Game
+    0 => Love
+    1-0 => Fifteen-Love
+    2-0 => Thirty-Love
+    3-0 => Forty-Love
+    4-0 => Winner
+    4-3 => Advantage Player
+    5-3 => Winner
+    4-4 => Deuce
+
+    2-2 => Thirty-All
+    1-1 => Fifteen-All
